@@ -1,10 +1,25 @@
 /* Qs1.Set the background page to color “wheat”, by using an inline style.
 Qs2.Change the color of the poem in the page to brown(use the hex code for color).
 Qs3.Align all the heading & the poem to the center of the page.
-Qs4.Changethecolorofthepoemtored&thepoet’snametoblack.
-Qs5.Changethefontoftheentiredocumenttothefont-Georgia.
+Qs4.Change the color of the poem to red & the poet’s name to black.
+Qs5.Change thefontoftheentiredocumenttothefont-Georgia.
 Qs6.SetthecoloroftheWikipedialinktogreen&removeitsunderline(usethergbvalueforcolor).
 Qs7.Changethebuttonbackgroundcolortowhite&buttontexttoblueviolet.
 Qs8.Whatisthehexcodeforblackcolor?Setthetextareafontcolortoblack.
 Qs9.Setthepoem’sline-heightto30px.
 Qs10.UnderlineonlythewordOzymandiasinsidethepoem.*/
+
+p {
+    color : #A52A2A
+}
+h1{
+    text-align : center;
+}
+
+h3{
+    text-align : center;
+}
+
+h4{
+    text-align : center;
+}

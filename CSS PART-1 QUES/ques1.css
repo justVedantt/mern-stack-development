@@ -2,8 +2,8 @@
 Qs2.Change the color of the poem in the page to brown(use the hex code for color).
 Qs3.Align all the heading & the poem to the center of the page.
 Qs4.Change the color of the poem to red & the poet’s name to black.
-Qs5.Change the font of the entiredocumenttothefont-Georgia.
-Qs6.Set the color of the Wikipedia link to green &remove its underline(use the rgb value for color).
+Qs5.Change the font of the entire document to the font-Georgia.
+Qs6.Set the color of the Wikipedia link to green & remove its underline(use the rgb value for color).
 Qs7.Change the button background color to white & button text to blueviolet.
 Qs8.What is the hexcode for black color? Set the text area font color to black.
 Qs9.Set the poem’s line-height to 30px.
@@ -11,15 +11,24 @@ Qs10.Underline only the word Ozymandias inside the poem.*/
 
 p {
     color : #ff0000;
+    font : georgia;;
 }
 h1{
     text-align : center;
+    font:georgia;
 }
 
 h3{
     text-align : center;
+    color : black;
+    font : georgia;
 }
 
 h4{
     text-align : center;
+    font : georgia;
+}
+
+a{
+    color : rgb(0,, green, blue)
 }

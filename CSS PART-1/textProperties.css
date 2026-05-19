@@ -3,3 +3,7 @@ h1 {
     border: solid;
     width: 90%;
 }
+
+p{
+    text-decoration: pink line-through;
+}

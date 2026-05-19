@@ -10,14 +10,16 @@ Qs9.Set the poem’s line-height to 30px.
 Qs10.Underline only the word Ozymandias inside the poem.*/
 
 p {
-    color : #ff0000;
+    color : brown;
     font : georgia;;
     line-height : 30px;
+    text-align: center;;
 }
 h1{
     text-align : center;
     font:georgia;
     text-decoration : underline;
+    color: #ff0000;
 }
 
 h3{

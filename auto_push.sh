@@ -10,7 +10,9 @@ do
 
     git commit -m "auto update: $(date '+%Y-%m-%d %H:%M:%S')" || true
 
+    git pull --rebase origin main
+
     git push
 
-    echo "Changes pushed to GitHub"
+    echo "Changes synced to GitHub"
 done

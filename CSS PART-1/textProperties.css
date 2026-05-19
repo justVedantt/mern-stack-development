@@ -6,4 +6,5 @@ h1 {
 
 p{
     text-decoration: pink wavy line-through;
+    line-height: 1.2;
 }

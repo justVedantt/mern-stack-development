@@ -1,0 +1,21 @@
+#container{
+    height: 50px;
+    width: 900px;
+    margin: 5px;
+    background-color: rgb(255, 192, 203);
+    border: 2px solid lightseagreen;
+    border-radius: 10px;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    
+    align-items: center;
+}
+#child{
+    height: 50px;
+    width: 80px;
+    font-size: 24px;
+    line-height: 50px;
+    margin-left: 5px;
+    border-radius: 10px;
+}

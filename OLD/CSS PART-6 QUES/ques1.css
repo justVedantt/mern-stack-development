@@ -1,0 +1,6 @@
+div{
+    height: 100px;
+    width: 900px;
+    display: grid;
+    background-color: pink;
+}

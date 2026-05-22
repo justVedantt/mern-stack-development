@@ -14,3 +14,9 @@ h1{
 .btn{
     background-color: aqua;
 }
+
+/* Descendant Selector ₹*/
+p a{
+    color:purple;
+    background-color: yellow;
+}

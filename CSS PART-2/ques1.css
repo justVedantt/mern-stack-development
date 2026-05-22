@@ -6,7 +6,11 @@ h1{
     color: #1b74e4;
 }
 
-#btn {
+#searchbtn {
     background-color: black;
-    
+    color: white;
+}
+
+.btn{
+    background-color: aqua;
 }

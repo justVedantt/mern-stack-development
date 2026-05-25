@@ -49,3 +49,12 @@ input[type="password"]{
 div[type="my_id"] p{
     color: green;
 }
+
+button:hover{
+     background-color: black;
+     color: white;
+}
+
+h3:hover{
+    text-decoration: none;
+}

@@ -22,3 +22,8 @@ h1{
 .upvote {
     background-color: greenyellow;
 }
+
+p a{
+    color: purple;
+    background-color: yellow;
+}

@@ -63,3 +63,5 @@ button:active{
     background-color:hotpink;
     color: white;
 }
+
+input[type="radio"]{}

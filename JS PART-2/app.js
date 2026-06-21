@@ -128,3 +128,8 @@ switch(days){
         default:
             console.log("invalid day");
 }
+
+// alert("something went worng!");
+console.error("This is an error message");
+console.warn("This is a warning message");
+

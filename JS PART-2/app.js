@@ -5,4 +5,4 @@ console.log("sum is :" , a+b);
 // this is comment
 let pencilPrice = 10;
 let eraserPrice = 5;
-console.log('Total Price ${a+b} rupees');
+console.log(₹Total Price ${a+b} rupees₹);

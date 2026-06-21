@@ -31,3 +31,13 @@ console.log(a > b);
 console.log(a >= b);
 console.log(a < b);
 console.log(a <= b);
+
+// Conditional Statements
+console.log("before my if statement");
+let age = 23;
+if(age > 18){
+    console.log("You can vote");
+} else {
+    console.log("You cannot vote");
+}
+console.log("after my if statement");

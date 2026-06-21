@@ -63,3 +63,4 @@ if(popcornSize == 'XL'){
 } else if (popcornSize === 'S'){
     console.log('price is Rs 50');
 }
+

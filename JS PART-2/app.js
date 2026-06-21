@@ -125,4 +125,6 @@ switch(days){
         case 7:
             console.log("Sun");
             break;
+        default:
+            console.log("invalid day");
 }

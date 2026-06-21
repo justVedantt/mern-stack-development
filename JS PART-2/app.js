@@ -64,3 +64,10 @@ if(popcornSize == 'XL'){
     console.log('price is Rs 50');
 }
 
+//Logical operators
+let marks = 90;
+if (marks > 80 && marks < 100){
+    console.log("A grade");
+} else {
+    console.log("repeat");
+}

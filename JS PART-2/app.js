@@ -71,3 +71,9 @@ if (marks > 80 && marks < 100){
 } else {
     console.log("repeat");
 }
+
+// practice question 3
+let str = "apple";
+if(str[0] == 'a' && str.length > 3){
+    console.log("good string");
+}

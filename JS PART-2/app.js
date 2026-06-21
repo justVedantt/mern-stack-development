@@ -86,8 +86,8 @@ if (true){
 }
 
 // switch statement
-let color = "red";
-switch(color){
+let colour = "green";
+switch(colour){
     case "red":
         console.log("stop");
         break;
@@ -99,4 +99,5 @@ switch(color){
         break;
     default:
         console.log("invalid color");
+    
 }

@@ -22,3 +22,7 @@ console.log(--a);
 // Assignment Operators
 let c = 10;
 c += 1;
+console.log(c);
+
+// Comparison Operators
+console.log(a==b)

@@ -77,3 +77,10 @@ let str = "apple";
 if(str[0] == 'a' && str.length > 3){
     console.log("good string");
 }
+
+// truthy and falsy values
+if (true){
+    console.log("this is true");
+} else {
+    console.log("this is false");
+}

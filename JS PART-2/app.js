@@ -56,8 +56,10 @@ if(color == "red"){
 let popcornSize = 'M';
 if(popcornSize == 'XL'){
     console.log("price is Rs 250");
-} else if (popcornPrice == 'L'){
-    console.log("price is Rs200");
-} else if (popcornPrice == 'M'){
-    console.log('price is Rs 100')
+} else if (popcornSize == 'L'){
+    console.log("price is Rs 200");
+} else if (popcornSize == 'M'){
+    console.log('price is Rs 100');
+} else if (popcornSize == 'S'){
+    console.log('price is Rs 50');
 }

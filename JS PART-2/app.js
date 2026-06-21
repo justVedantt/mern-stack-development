@@ -133,3 +133,6 @@ switch(days){
 console.error("This is an error message");
 console.warn("This is a warning message");
 
+let FirstName = prompt("Your name: ");
+let LastName = prompt("Your last name:");
+console.log(FirstName + " " + LastName);

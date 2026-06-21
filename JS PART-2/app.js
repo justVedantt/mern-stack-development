@@ -84,3 +84,10 @@ if (true){
 } else {
     console.log("this is false");
 }
+
+// switch statement
+let color : "red";
+switch(color){
+    case "red":
+        console.log("stop");
+}

@@ -25,4 +25,9 @@ c += 1;
 console.log(c);
 
 // Comparison Operators
-console.log(a==b)
+console.log(a == b);
+console.log(a != b);
+console.log(a > b);
+console.log(a >= b);
+console.log(a < b);
+console.log(a <= b);

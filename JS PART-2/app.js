@@ -51,3 +51,13 @@ if(color == "red"){
 } else {
     console.log("go");
 }
+
+// practice question 2
+let popcornSize = 'M';
+if(popcornSize == 'XL'){
+    console.log("price is Rs 250");
+} else if (popcornPrice == 'L'){
+    console.log("price is Rs200");
+} else if (popcornPrice == 'M'){
+    console.log('price is Rs 100')
+}

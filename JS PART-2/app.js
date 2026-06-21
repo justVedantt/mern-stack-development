@@ -41,3 +41,13 @@ if(age > 18){
     console.log("You cannot vote");
 }
 console.log("after my if statement");
+
+// practice question
+let color = "red";
+if(color == "red"){
+    console.log("stop");
+} else if (color == "yellow"){
+    console.log("get ready");
+} else {
+    console.log("go");
+}

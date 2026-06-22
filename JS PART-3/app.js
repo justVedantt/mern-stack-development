@@ -6,3 +6,7 @@ console.log(msg.trim());
 console.log(msg.toUpperCase().trim());
 console.log(msg.toLowerCase().trim());
 
+// indexOf
+let str1 = "ILoveCoding";
+console.log(str1.indexOf("Love"));
+console.log(str1.indexOf("o"));

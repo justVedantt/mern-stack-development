@@ -13,3 +13,10 @@ console.log(str1.indexOf("o"));
 
 // slice
 console.log(str1.slice(1,5));
+
+// practice question 1
+ let msg2 = "help!";
+ console.log(msg2.trim().toUpperCase());
+
+ let name = "ApnaCollege";
+ 

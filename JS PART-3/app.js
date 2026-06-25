@@ -15,8 +15,8 @@ console.log(str1.indexOf("o"));
 console.log(str1.slice(1,5));
 
 // practice question 1
- let msg2 = "help!";
- console.log(msg2.trim().toUpperCase());
+let msg2 = "help!";
+console.log(msg2.trim().toUpperCase());
 
- let name = "ApnaCollege";
- 
+let name = "ApnaCollege";
+console.log(name.slice())

@@ -23,3 +23,7 @@ console.log(name.slice(4).replace('l','t'));
 
 // Array
 let students = ["Vedant","Chitru", " Tanvi"];
+console.log(students[1]);
+console.log(students.length);
+
+let info = ["Vedant", 22, 80];

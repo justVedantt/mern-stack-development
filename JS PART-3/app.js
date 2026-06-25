@@ -20,3 +20,6 @@ console.log(msg2.trim().toUpperCase());
 
 let name = "ApnaCollege";
 console.log(name.slice(4).replace('l','t'));
+
+// Array
+let students = ["Vedant","Chitru", " Tanvi"];

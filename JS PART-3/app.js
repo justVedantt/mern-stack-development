@@ -19,4 +19,4 @@ let msg2 = "help!";
 console.log(msg2.trim().toUpperCase());
 
 let name = "ApnaCollege";
-console.log(name.slice())
+console.log(name.slice(4).replace('l','t'));
